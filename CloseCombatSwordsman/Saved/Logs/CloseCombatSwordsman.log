@@ -1,0 +1,1462 @@
+﻿Log file open, 12/18/18 13:12:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CloseCombatSwordsman
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.250019
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.219s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 8.1 (), CPU: Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz, GPU: AMD Radeon (TM) R7 370 Series
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Engine.ini]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Engine.ini]
+[2018.12.18-10.12.46:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Engine.ini]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Engine.ini]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.18-10.12.46:886][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.18-10.12.46:887][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.18-10.12.46:887][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.18-10.12.46:887][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.18-10.12.46:887][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.18-10.12.46:887][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.18-10.12.46:887][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Engine.ini]
+[2018.12.18-10.12.46:887][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Engine.ini]
+[2018.12.18-10.12.46:987][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Scalability.ini]
+[2018.12.18-10.12.46:987][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.18-10.12.46:987][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.18-10.12.46:987][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Scalability.ini]
+[2018.12.18-10.12.46:987][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.18-10.12.46:987][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Scalability.ini]
+[2018.12.18-10.12.46:987][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.18-10.12.46:987][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.18-10.12.46:987][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.18-10.12.46:987][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.18-10.12.46:987][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.18-10.12.46:987][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.18-10.12.46:987][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.18-10.12.46:987][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.18-10.12.46:987][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.18-10.12.46:987][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Scalability.ini]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Scalability.ini]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Scalability.ini]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Scalability.ini]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.18-10.12.46:988][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.18-10.12.47:015][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.18-10.12.47:015][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.18-10.12.47:064][  0]LogHAL: Display: Platform has ~ 8 GB [8526745600 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.18-10.12.47:073][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.18-10.12.47:073][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.18-10.12.47:074][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Scalability.ini]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Scalability.ini]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Scalability.ini]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Scalability.ini]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Scalability.ini]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.18-10.12.47:074][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Scalability.ini]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Scalability.ini]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.18-10.12.47:075][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.18-10.12.47:080][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.18-10.12.47:080][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Config/Windows/Engine.ini]
+[2018.12.18-10.12.47:107][  0]LogInit: Computer: ADMIN
+[2018.12.18-10.12.47:107][  0]LogInit: User: AdminPC
+[2018.12.18-10.12.47:107][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.12.18-10.12.47:107][  0]LogInit: High frequency timer resolution =3.612234 MHz
+[2018.12.18-10.12.47:107][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.12.18-10.12.47:107][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.18-10.12.47:107][  0]LogMemory: Process Physical Memory: 99.67 MB used, 99.67 MB peak
+[2018.12.18-10.12.47:107][  0]LogMemory: Process Virtual Memory: 90.72 MB used, 90.72 MB peak
+[2018.12.18-10.12.47:107][  0]LogMemory: Physical Memory: 4727.13 MB used,  3404.61 MB free, 8131.74 MB total
+[2018.12.18-10.12.47:107][  0]LogMemory: Virtual Memory: 477.26 MB used,  134217248.00 MB free, 134217728.00 MB total
+[2018.12.18-10.12.48:265][  0]LogInit: Using OS detected language (ru-RU).
+[2018.12.18-10.12.48:265][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.12.18-10.12.48:314][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2018.12.18-10.12.48:491][  0]LogStreaming: Display: Took  0.190s to InitEngineTextLocalization.
+[2018.12.18-10.12.48:512][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.18-10.12.49:190][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.18-10.12.49:190][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.18-10.12.50:996][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.18-10.12.50:996][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.18-10.12.51:026][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R7 370 Series' (Feature Level 11_0)
+[2018.12.18-10.12.51:026][  0]LogD3D11RHI:       4074/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.12.18-10.12.51:027][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.18-10.12.51:027][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.18-10.12.51:027][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.18-10.12.51:047][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.18-10.12.51:047][  0]LogD3D11RHI:     GPU DeviceId: 0x6811 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.18-10.12.51:047][  0]LogWindows: EnumDisplayDevices:
+[2018.12.18-10.12.51:047][  0]LogWindows:    0. 'AMD Radeon (TM) R7 370 Series' (P:1 D:1)
+[2018.12.18-10.12.51:051][  0]LogWindows:    1. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2018.12.18-10.12.51:051][  0]LogWindows:    2. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2018.12.18-10.12.51:052][  0]LogWindows:    3. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2018.12.18-10.12.51:052][  0]LogWindows:    4. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2018.12.18-10.12.51:052][  0]LogWindows:    5. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2018.12.18-10.12.51:053][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2018.12.18-10.12.51:053][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R7 370 Series
+[2018.12.18-10.12.51:053][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7.1 (internal:22.19.171.1024, unified:22.19.171.1024)
+[2018.12.18-10.12.51:053][  0]LogD3D11RHI:      Driver Date: 7-4-2017
+[2018.12.18-10.12.51:053][  0]LogRHI: Texture pool is 2851 MB (70% of 4074 MB)
+[2018.12.18-10.12.51:168][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.18-10.12.51:632][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.12.18-10.13.05:280][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.18-10.13.05:310][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.18-10.13.05:498][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.18-10.13.05:531][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.18-10.13.05:594][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.18-10.13.05:659][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.18-10.13.05:909][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.18-10.13.06:035][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.18-10.13.06:066][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:192][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.18-10.13.06:256][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.18-10.13.06:410][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.18-10.13.06:410][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.18-10.13.06:449][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.18-10.13.06:449][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.18-10.13.06:484][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.18-10.13.06:501][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.18-10.13.06:562][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.18-10.13.06:612][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.18-10.13.06:726][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.18-10.13.06:726][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.18-10.13.06:726][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.18-10.13.08:722][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/Admin-PC/Desktop/CloseCombatSwordsman/Intermediate/Shaders/WorkingDirectory/3528/).
+[2018.12.18-10.13.08:722][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admin-PC/AppData/Local/Temp/UnrealShaderWorkingDir/D3F2181440DFE9D568788F9C8F14A5FB/'.
+[2018.12.18-10.13.08:770][  0]LogXGEController: Cleaning working directory: C:/Users/Admin-PC/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.18-10.13.08:770][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.18-10.13.08:771][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.18-10.13.08:771][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.18-10.13.13:394][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.18-10.13.14:579][  0]LogDerivedDataCache: Loaded boot cache 1.17s 73MB C:/Users/Admin-PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.18-10.13.14:579][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Admin-PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.18-10.13.14:579][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Admin-PC/Desktop/CloseCombatSwordsman/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.18-10.13.14:579][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.18-10.13.14:580][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Admin-PC/Desktop/CloseCombatSwordsman/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.18-10.13.14:580][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.18-10.13.14:708][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.18-10.13.14:709][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.18-10.13.14:709][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.18-10.13.14:760][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Admin-PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.18-10.13.14:760][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.18-10.13.14:760][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.18-10.13.14:955][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.18-10.13.15:044][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.18-10.13.15:130][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.18-10.13.17:741][  0]LogAssetRegistry: FAssetRegistry took 0.0843 seconds to start up
+[2018.12.18-10.13.28:464][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.18-10.13.40:737][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.18-10.13.42:515][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.18-10.13.42:541][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.18-10.13.42:637][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.18-10.13.42:637][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.18-10.13.44:712][  0]LogNetVersion: CloseCombatSwordsman 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3654537873)
+[2018.12.18-10.13.46:423][  0]LogNavigation: Error: [/Script/Engine.RecastNavMesh] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.RecastNavMesh]
+[2018.12.18-10.14.04:705][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 1.128966 seconds
+[2018.12.18-10.14.04:819][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.18-10.14.04:819][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.18-10.14.04:819][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.18-10.15.03:332][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.18-10.15.03:443][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.18-10.15.07:480][  0]SourceControl: Source control is disabled
+[2018.12.18-10.15.07:481][  0]SourceControl: Source control is disabled
+[2018.12.18-10.15.07:694][  0]SourceControl: Source control is disabled
+[2018.12.18-10.15.07:715][  0]SourceControl: Source control is disabled
+[2018.12.18-10.15.09:919][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.18-10.15.10:212][  0]LogOcInput: OculusInput pre-init called
+[2018.12.18-10.15.11:539][  0]LogEngine: Initializing Engine...
+[2018.12.18-10.15.11:577][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.18-10.15.11:612][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.009 s
+[2018.12.18-10.15.11:612][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.18-10.15.11:612][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.18-10.15.11:612][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.18-10.15.12:159][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.18-10.15.12:663][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.18-10.15.12:916][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-10.15.13:014][  0]LogInit: FAudioDevice initialized.
+[2018.12.18-10.15.13:015][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.18-10.15.13:278][  0]LogDerivedDataCache: Saved boot cache 0.26s 71MB C:/Users/Admin-PC/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.18-10.15.13:295][  0]LogInit: Texture streaming: Enabled
+[2018.12.18-10.15.13:475][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.18-10.15.13:687][  0]LogInit: Transaction tracking system initialized
+[2018.12.18-10.15.14:670][  0]BlueprintLog: New page: Editor Load
+[2018.12.18-10.15.17:106][  0]LocalizationService: Localization service is disabled
+[2018.12.18-10.15.22:532][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Content/' took 0.04s
+[2018.12.18-10.15.22:532][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.18-10.15.22:532][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.18-10.15.22:532][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.18-10.15.22:532][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.18-10.15.22:532][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.18-10.15.22:533][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.18-10.15.22:533][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.18-10.15.32:155][  0]SourceControl: Source control is disabled
+[2018.12.18-10.15.32:247][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Admin-PC/Desktop/CloseCombatSwordsman/Content/CloseCombat/Maps/DemoMap_WarriorSword.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.18-10.15.32:359][  0]LightingResults: New page: Lighting Build
+[2018.12.18-10.15.33:600][  0]MapCheck: New page: Map Check
+[2018.12.18-10.15.33:600][  0]LightingResults: New page: Lighting Build
+[2018.12.18-10.15.37:641][  0]LogAnimation: Warning: Animation Blueprint /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman_AnimBP.Swordsman_AnimBP has nodes with invalid node guids that have been regenerated. This blueprint will not cook deterministically until it is resaved.
+[2018.12.18-10.15.45:695][  0]LogTexture: Display: Building textures: T_Sword_D (AutoDXT, 256X1024)
+[2018.12.18-10.15.45:695][  0]LogTexture: Display: Building textures: UE4Man_Logo_E (AutoDXT, 512X512)
+[2018.12.18-10.15.45:695][  0]LogTexture: Display: Building textures: UE4_Mannequin_Rune_Mask (AutoDXT, 2048X2048)
+[2018.12.18-10.15.45:695][  0]LogTexture: Display: Building textures: T_SwordOfLightMagic_D (AutoDXT, 512X256)
+[2018.12.18-10.15.45:695][  0]LogStaticMesh: Building static mesh SM_Brick...
+[2018.12.18-10.15.45:758][  0]LogStaticMesh: Built static mesh [0.06s] /Game/CloseCombat/Maps/Meshes/SM_Brick.SM_Brick
+[2018.12.18-10.15.46:712][  0]LogTexture: Display: Building textures: T_FuturisticSword_N (BC5, 4096X2048)
+[2018.12.18-10.15.46:712][  0]LogTexture: Display: Building textures: T_FuturisticSword_D (AutoDXT, 4096X2048)
+[2018.12.18-10.15.46:854][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Damage/A_SW_Damage_Fast.A_SW_Damage_Fast
+[2018.12.18-10.15.46:870][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Damage/A_SW_Damage_Fast.A_SW_Damage_Fast) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:888][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Combat/A_SW_Idle_Combat.A_SW_Idle_Combat
+[2018.12.18-10.15.46:888][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Combat/A_SW_Idle_Combat.A_SW_Idle_Combat) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:890][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Combat/A_SW_Combat_In.A_SW_Combat_In
+[2018.12.18-10.15.46:890][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Combat/A_SW_Combat_In.A_SW_Combat_In) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:892][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Block/A_SW_Blocking_Hit.A_SW_Blocking_Hit
+[2018.12.18-10.15.46:892][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Block/A_SW_Blocking_Hit.A_SW_Blocking_Hit) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:893][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Block/A_SW_Blocking_Attack.A_SW_Blocking_Attack
+[2018.12.18-10.15.46:893][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Block/A_SW_Blocking_Attack.A_SW_Blocking_Attack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:905][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Block/A_SW_Blocking.A_SW_Blocking
+[2018.12.18-10.15.46:905][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Block/A_SW_Blocking.A_SW_Blocking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:907][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Fatality_Atacker_02.A_SW_Fatality_Atacker_02
+[2018.12.18-10.15.46:907][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Fatality_Atacker_02.A_SW_Fatality_Atacker_02) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:911][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Fatality_Atacker_01.A_SW_Fatality_Atacker_01
+[2018.12.18-10.15.46:911][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Fatality_Atacker_01.A_SW_Fatality_Atacker_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:929][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Equip/A_SW_Unequip.A_SW_Unequip
+[2018.12.18-10.15.46:929][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Equip/A_SW_Unequip.A_SW_Unequip) using current/default (AnimCompress_BitwiseCompressOnly_36) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:932][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Equip/A_SW_Equip.A_SW_Equip
+[2018.12.18-10.15.46:932][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Equip/A_SW_Equip.A_SW_Equip) using current/default (AnimCompress_BitwiseCompressOnly_39) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:934][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/A_SW_Jump_Air.A_SW_Jump_Air
+[2018.12.18-10.15.46:934][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/A_SW_Jump_Air.A_SW_Jump_Air) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:936][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Stealth_Victim_01.A_SW_Stealth_Victim_01
+[2018.12.18-10.15.46:936][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Stealth_Victim_01.A_SW_Stealth_Victim_01) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:939][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Stealth_Atacker_01.A_SW_Stealth_Atacker_01
+[2018.12.18-10.15.46:939][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Stealth_Atacker_01.A_SW_Stealth_Atacker_01) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:943][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Fatality_Victim_02.A_SW_Fatality_Victim_02
+[2018.12.18-10.15.46:943][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Fatality_Victim_02.A_SW_Fatality_Victim_02) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:948][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Fatality_Victim_01.A_SW_Fatality_Victim_01
+[2018.12.18-10.15.46:948][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Fatality_Victim_01.A_SW_Fatality_Victim_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:951][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/Unarmed/A_Unarmed_Jump_Land_Run.A_Unarmed_Jump_Land_Run
+[2018.12.18-10.15.46:951][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/Unarmed/A_Unarmed_Jump_Land_Run.A_Unarmed_Jump_Land_Run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:952][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/Unarmed/A_Unarmed_Jump_Land.A_Unarmed_Jump_Land
+[2018.12.18-10.15.46:952][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/Unarmed/A_Unarmed_Jump_Land.A_Unarmed_Jump_Land) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:954][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/Unarmed/A_Unarmed_Jump_Air.A_Unarmed_Jump_Air
+[2018.12.18-10.15.46:954][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/Unarmed/A_Unarmed_Jump_Air.A_Unarmed_Jump_Air) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:956][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/A_SW_Jump_Start.A_SW_Jump_Start
+[2018.12.18-10.15.46:956][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/A_SW_Jump_Start.A_SW_Jump_Start) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:957][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/A_SW_Jump_Land_Run.A_SW_Jump_Land_Run
+[2018.12.18-10.15.46:957][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/A_SW_Jump_Land_Run.A_SW_Jump_Land_Run) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:958][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/A_SW_Jump_Land.A_SW_Jump_Land
+[2018.12.18-10.15.46:958][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/A_SW_Jump_Land.A_SW_Jump_Land) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:959][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_ForwardLeft.A_SW_Roll_ForwardLeft
+[2018.12.18-10.15.46:959][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_ForwardLeft.A_SW_Roll_ForwardLeft) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:961][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Forward.A_SW_Roll_Forward
+[2018.12.18-10.15.46:961][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Forward.A_SW_Roll_Forward) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.46:962][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_BackwardRight.A_SW_Roll_BackwardRight
+[2018.12.18-10.15.46:963][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_BackwardRight.A_SW_Roll_BackwardRight) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.47:018][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_BackwardLeft.A_SW_Roll_BackwardLeft
+[2018.12.18-10.15.47:018][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_BackwardLeft.A_SW_Roll_BackwardLeft) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.47:020][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Backward.A_SW_Roll_Backward
+[2018.12.18-10.15.47:020][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Backward.A_SW_Roll_Backward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.47:022][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/Unarmed/A_Unarmed_Jump_Start.A_Unarmed_Jump_Start
+[2018.12.18-10.15.47:022][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/Unarmed/A_Unarmed_Jump_Start.A_Unarmed_Jump_Start) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.47:023][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Damage/A_SW_Damage_Backward.A_SW_Damage_Backward
+[2018.12.18-10.15.47:023][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Damage/A_SW_Damage_Backward.A_SW_Damage_Backward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.47:025][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_05.A_SW_Attack_05
+[2018.12.18-10.15.47:025][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_05.A_SW_Attack_05) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.47:027][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_04.A_SW_Attack_04
+[2018.12.18-10.15.47:027][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_04.A_SW_Attack_04) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.47:059][  0]LogTexture: Display: Building textures: T_Sword_Rough (AutoDXT, 256X1024)
+[2018.12.18-10.15.47:648][  0]LogTexture: Display: Building textures: T_SwordOfDarkness_N (BC5, 4096X2048)
+[2018.12.18-10.15.47:648][  0]LogTexture: Display: Building textures: T_Sword_N (BC5, 256X1024)
+[2018.12.18-10.15.47:951][  0]LogMaterial: Display: Missing cached shader map for material M_Sword_Blade, compiling. 
+[2018.12.18-10.15.48:166][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.18-10.15.48:166][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.18-10.15.48:166][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.18-10.15.48:166][  0]LogStaticMesh: Building static mesh SM_Sword...
+[2018.12.18-10.15.48:268][  0]LogStaticMesh: Built static mesh [0.10s] /Game/CloseCombat/Weapon/Swords/SwordTest/Meshes/SM_Sword.SM_Sword
+[2018.12.18-10.15.48:284][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.12.18-10.15.48:447][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.12.18-10.15.48:539][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2018.12.18-10.15.48:717][  0]LogSkeletalMesh: Built Skeletal Mesh [0.18s] /Game/CloseCombat/Character/UE4Mannequin/Meshes/SK_Mannequin.SK_Mannequin
+[2018.12.18-10.15.50:814][  0]LogTexture: Display: Building textures: T_SwordOfDarkness_D (AutoDXT, 4096X2048)
+[2018.12.18-10.15.50:950][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_Player.A_SW_Walk_Player
+[2018.12.18-10.15.50:950][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_Player.A_SW_Walk_Player) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.15.55:732][  0]LogTexture: Display: Building textures: T_FuturisticSword_RMEA (AutoDXT, 4096X2048)
+[2018.12.18-10.15.55:732][  0]LogShaderCompilers: Display: Shaders left to compile 282
+[2018.12.18-10.15.56:048][  0]LogTexture: Display: Building textures: T_SwordOfDarknessMagic_D (AutoDXT, 512X512)
+[2018.12.18-10.15.56:048][  0]LogTexture: Display: Building textures: T_SwordOfLight_N (BC5, 4096X2048)
+[2018.12.18-10.15.57:900][  0]LogTexture: Display: Building textures: T_SwordOfDarkness_RMEA (AutoDXT, 4096X2048)
+[2018.12.18-10.15.58:254][  0]LogTexture: Display: Building textures: T_SwordOfLight_D (AutoDXT, 4096X2048)
+[2018.12.18-10.16.10:098][  0]LogTexture: Display: Building textures: T_Skill_Combo_Ico (AutoDXT, 1024X1024)
+[2018.12.18-10.16.10:098][  0]LogTexture: Display: Building textures: T_SwordOfLight_RMEA (AutoDXT, 4096X2048)
+[2018.12.18-10.16.25:357][  0]LogShaderCompilers: Display: Shaders left to compile 272
+[2018.12.18-10.16.25:357][  0]LogTexture: Display: Building textures: T_Flare_03 (BGRA8, 1024X1024)
+[2018.12.18-10.16.25:357][  0]LogTexture: Display: Building textures: T_Smoke_Tile_01 (AutoDXT, 1024X1024)
+[2018.12.18-10.16.25:357][  0]LogTexture: Display: Building textures: T_Flare_04 (BGRA8, 1024X1024)
+[2018.12.18-10.16.25:357][  0]LogTexture: Display: Building textures: T_Throne_N (BC5, 512X512)
+[2018.12.18-10.16.25:357][  0]LogShaderCompilers: Display: Shaders left to compile 262
+[2018.12.18-10.16.25:357][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 4096X4096)
+[2018.12.18-10.16.25:357][  0]LogShaderCompilers: Display: Shaders left to compile 252
+[2018.12.18-10.16.25:357][  0]LogShaderCompilers: Display: Shaders left to compile 242
+[2018.12.18-10.16.25:357][  0]LogShaderCompilers: Display: Shaders left to compile 232
+[2018.12.18-10.16.25:357][  0]LogShaderCompilers: Display: Shaders left to compile 222
+[2018.12.18-10.16.25:357][  0]LogMaterial: Display: Missing cached shader map for material M_Swords, compiling. 
+[2018.12.18-10.16.25:463][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.12.18-10.16.25:463][  0]LogMaterial: Display: Missing cached shader map for material M_Swords, compiling. 
+[2018.12.18-10.16.25:607][  0]LogStaticMesh: Building static mesh SM_SwordOfDarkness...
+[2018.12.18-10.16.25:742][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 4096X4096)
+[2018.12.18-10.16.25:742][  0]LogStaticMesh: Built static mesh [0.14s] /Game/CloseCombat/Weapon/Swords/SwordOfDarkness/Meshes/SM_SwordOfDarkness.SM_SwordOfDarkness
+[2018.12.18-10.16.25:763][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Damage/A_SW_Damage_Right.A_SW_Damage_Right
+[2018.12.18-10.16.25:763][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Damage/A_SW_Damage_Right.A_SW_Damage_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.25:778][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Damage/A_SW_Damage_Left.A_SW_Damage_Left
+[2018.12.18-10.16.25:778][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Damage/A_SW_Damage_Left.A_SW_Damage_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.25:780][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_03.A_SW_Attack_03
+[2018.12.18-10.16.25:780][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_03.A_SW_Attack_03) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.25:782][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_02.A_SW_Attack_02
+[2018.12.18-10.16.25:782][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_02.A_SW_Attack_02) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.25:785][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_01.A_SW_Attack_01
+[2018.12.18-10.16.25:785][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_01.A_SW_Attack_01) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.25:884][  0]LogMaterial: Display: Missing cached shader map for material M_Color, compiling. 
+[2018.12.18-10.16.25:954][  0]LogStaticMesh: Building static mesh SM_Ball...
+[2018.12.18-10.16.25:961][  0]LogStaticMesh: Built static mesh [0.03s] /Game/CloseCombat/Blueprints/Misc/Meshes/SM_Ball.SM_Ball
+[2018.12.18-10.16.26:072][  0]LogMaterial: Display: Missing cached shader map for material M_SimpleMaterial, compiling. 
+[2018.12.18-10.16.26:117][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Turret...
+[2018.12.18-10.16.26:119][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/CloseCombat/Blueprints/Enemy/Turret/Meshes/SK_Turret.SK_Turret
+[2018.12.18-10.16.26:121][  0]LogTexture: Display: Building textures: T_SkillBox_Ico (AutoDXT, 256X256)
+[2018.12.18-10.16.26:163][  0]LogTexture: Display: Building textures: T_2D_BorderSkill_BG (AutoDXT, 512X256)
+[2018.12.18-10.16.26:308][  0]LogTexture: Display: Building textures: T_SkillBoxGlass_Ico (AutoDXT, 256X256)
+[2018.12.18-10.16.26:417][  0]LogTexture: Display: Building textures: T_SkillBox_Mask_Ico (AutoDXT, 256X256)
+[2018.12.18-10.16.26:428][  0]LogMaterial: Display: Missing cached shader map for material M_2D_Skill, compiling. 
+[2018.12.18-10.16.27:124][  0]LogStaticMesh: Building static mesh SM_FuturisticSword...
+[2018.12.18-10.16.27:399][  0]LogStaticMesh: Built static mesh [0.28s] /Game/CloseCombat/Weapon/Swords/FuturisticSword/Meshes/SM_FuturisticSword.SM_FuturisticSword
+[2018.12.18-10.16.27:436][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Taunt/A_SW_Taunt_01.A_SW_Taunt_01
+[2018.12.18-10.16.27:436][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Taunt/A_SW_Taunt_01.A_SW_Taunt_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.27:440][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Right.A_SW_Roll_Right
+[2018.12.18-10.16.27:440][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Right.A_SW_Roll_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.27:442][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Left.A_SW_Roll_Left
+[2018.12.18-10.16.27:442][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Left.A_SW_Roll_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.27:443][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_ForwardRight.A_SW_Roll_ForwardRight
+[2018.12.18-10.16.27:444][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_ForwardRight.A_SW_Roll_ForwardRight) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.28:145][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Blueprints/Enemy/Turret/Animation/A_Turret_Yaw90_Left.A_Turret_Yaw90_Left
+[2018.12.18-10.16.28:145][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Blueprints/Enemy/Turret/Animation/A_Turret_Yaw90_Left.A_Turret_Yaw90_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.28:145][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Blueprints/Enemy/Turret/Animation/A_Turret_Yaw180.A_Turret_Yaw180
+[2018.12.18-10.16.28:145][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Blueprints/Enemy/Turret/Animation/A_Turret_Yaw180.A_Turret_Yaw180) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.28:145][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Blueprints/Enemy/Turret/Animation/A_Turret_Shoot.A_Turret_Shoot
+[2018.12.18-10.16.28:145][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Blueprints/Enemy/Turret/Animation/A_Turret_Shoot.A_Turret_Shoot) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.28:146][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Blueprints/Enemy/Turret/Animation/A_Turret_Damage.A_Turret_Damage
+[2018.12.18-10.16.28:146][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Blueprints/Enemy/Turret/Animation/A_Turret_Damage.A_Turret_Damage) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.28:146][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Blueprints/Enemy/Turret/Animation/A_Turret_Yaw90_Right.A_Turret_Yaw90_Right
+[2018.12.18-10.16.28:146][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Blueprints/Enemy/Turret/Animation/A_Turret_Yaw90_Right.A_Turret_Yaw90_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.28:150][  0]LogMaterial: Display: Missing cached shader map for material M_Swords, compiling. 
+[2018.12.18-10.16.28:310][  0]LogStaticMesh: Building static mesh SM_SwordOfLight...
+[2018.12.18-10.16.28:510][  0]LogStaticMesh: Built static mesh [0.20s] /Game/CloseCombat/Weapon/Swords/SwordOfLight/Meshes/SM_SwordOfLight.SM_SwordOfLight
+[2018.12.18-10.16.28:536][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Blueprints/Enemy/Turret/Animation/A_Turret_Pitch40_Up.A_Turret_Pitch40_Up
+[2018.12.18-10.16.28:536][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Blueprints/Enemy/Turret/Animation/A_Turret_Pitch40_Up.A_Turret_Pitch40_Up) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.28:536][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Blueprints/Enemy/Turret/Animation/A_Turret_Pitch40_Down.A_Turret_Pitch40_Down
+[2018.12.18-10.16.28:536][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Blueprints/Enemy/Turret/Animation/A_Turret_Pitch40_Down.A_Turret_Pitch40_Down) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.31:989][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.12.18-10.16.31:990][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 4096X2048)
+[2018.12.18-10.16.31:990][  0]LogShaderCompilers: Display: Shaders left to compile 746
+[2018.12.18-10.16.31:990][  0]LogShaderCompilers: Display: Shaders left to compile 736
+[2018.12.18-10.16.31:990][  0]LogShaderCompilers: Display: Shaders left to compile 726
+[2018.12.18-10.16.34:412][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 2048X2048)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X1024)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X1024)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: T_SparkSingle (AutoDXT, 128X1024)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: T_Flare_02 (BGRA8, 1024X1024)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: T_dust_cloud (AutoDXT, 64X64)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: T_SwordTrail_Noise (AutoDXT, 512X512)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: T_SwordTrail_N (BC5, 512X512)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: T_SkillReady_Line_Ico (AutoDXT, 512X512)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: T_SkillReady_Ico (AutoDXT, 256X512)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: T_Skill_Roll_Ico (AutoDXT, 1024X1024)
+[2018.12.18-10.16.34:413][  0]LogTexture: Display: Building textures: T_Skill_Berserker_Ico (AutoDXT, 1024X1024)
+[2018.12.18-10.16.34:413][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_B.A_SW_Walk_B
+[2018.12.18-10.16.34:414][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_B.A_SW_Walk_B) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.34:415][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Run.A_SW_Run
+[2018.12.18-10.16.34:415][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Run.A_SW_Run) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.34:416][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_RelaxWalk.A_SW_RelaxWalk
+[2018.12.18-10.16.34:416][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_RelaxWalk.A_SW_RelaxWalk) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.34:421][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Idle.A_SW_Idle
+[2018.12.18-10.16.34:422][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Idle.A_SW_Idle) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.34:468][  0]LogTexture: Display: Building textures: T_Skill_HeavyAttack_Ico (AutoDXT, 1024X1024)
+[2018.12.18-10.16.34:468][  0]LogMaterial: Display: Missing cached shader map for material M_Single_Master, compiling. 
+[2018.12.18-10.16.34:787][  0]LogTexture: Display: Building textures: T_Skill_Fatality_Ico (AutoDXT, 1024X1024)
+[2018.12.18-10.16.34:787][  0]LogMaterial: Display: Missing cached shader map for material M_Flare_Master, compiling. 
+[2018.12.18-10.16.34:811][  0]LogMaterial: Display: Missing cached shader map for material M_WaterCloud, compiling. 
+[2018.12.18-10.16.35:009][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_Right.A_SW_Throw_Right
+[2018.12.18-10.16.35:009][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_Right.A_SW_Throw_Right) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:011][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_Left.A_SW_Throw_Left
+[2018.12.18-10.16.35:011][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_Left.A_SW_Throw_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:012][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_Fwd.A_SW_Throw_Fwd
+[2018.12.18-10.16.35:012][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_Fwd.A_SW_Throw_Fwd) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:013][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_BwdRight.A_SW_Throw_BwdRight
+[2018.12.18-10.16.35:013][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_BwdRight.A_SW_Throw_BwdRight) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:015][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_BwdLeft.A_SW_Throw_BwdLeft
+[2018.12.18-10.16.35:015][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_BwdLeft.A_SW_Throw_BwdLeft) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:016][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_FR.A_SW_Walk_FR
+[2018.12.18-10.16.35:016][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_FR.A_SW_Walk_FR) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:018][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_FL.A_SW_Walk_FL
+[2018.12.18-10.16.35:018][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_FL.A_SW_Walk_FL) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:019][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_F.A_SW_Walk_F
+[2018.12.18-10.16.35:019][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_F.A_SW_Walk_F) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:020][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_BR.A_SW_Walk_BR
+[2018.12.18-10.16.35:021][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_BR.A_SW_Walk_BR) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:022][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_BL.A_SW_Walk_BL
+[2018.12.18-10.16.35:022][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_BL.A_SW_Walk_BL) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:023][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Unarmed/A_SW_Unarmed_Walk.A_SW_Unarmed_Walk
+[2018.12.18-10.16.35:023][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Unarmed/A_SW_Unarmed_Walk.A_SW_Unarmed_Walk) using current/default (AnimCompress_BitwiseCompressOnly_38) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:024][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Unarmed/A_SW_Unarmed_Run.A_SW_Unarmed_Run
+[2018.12.18-10.16.35:024][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Unarmed/A_SW_Unarmed_Run.A_SW_Unarmed_Run) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:025][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Unarmed/A_SW_Unarmed_Idle.A_SW_Unarmed_Idle
+[2018.12.18-10.16.35:025][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Unarmed/A_SW_Unarmed_Idle.A_SW_Unarmed_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:059][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_R.A_SW_Walk_R
+[2018.12.18-10.16.35:059][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_R.A_SW_Walk_R) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:060][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_L.A_SW_Walk_L
+[2018.12.18-10.16.35:060][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_L.A_SW_Walk_L) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:061][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_HeavyAttack.A_SW_HeavyAttack
+[2018.12.18-10.16.35:062][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_HeavyAttack.A_SW_HeavyAttack) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:074][  0]LogMaterial: Display: Missing cached shader map for material M_SwordTrail, compiling. 
+[2018.12.18-10.16.35:120][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_Right.A_SW_Avoid_Right
+[2018.12.18-10.16.35:120][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_Right.A_SW_Avoid_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:122][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_Left.A_SW_Avoid_Left
+[2018.12.18-10.16.35:122][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_Left.A_SW_Avoid_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:123][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_ForwardRight.A_SW_Avoid_ForwardRight
+[2018.12.18-10.16.35:123][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_ForwardRight.A_SW_Avoid_ForwardRight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:124][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_ForwardLeft.A_SW_Avoid_ForwardLeft
+[2018.12.18-10.16.35:125][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_ForwardLeft.A_SW_Avoid_ForwardLeft) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:126][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_Forward.A_SW_Avoid_Forward
+[2018.12.18-10.16.35:126][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_Forward.A_SW_Avoid_Forward) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:127][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_BackwardRight.A_SW_Avoid_BackwardRight
+[2018.12.18-10.16.35:127][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_BackwardRight.A_SW_Avoid_BackwardRight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:129][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_Enemy_Left_01.A_SW_Enemy_Left_01
+[2018.12.18-10.16.35:129][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_Enemy_Left_01.A_SW_Enemy_Left_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:135][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Taunt/A_SW_Taunt_02.A_SW_Taunt_02
+[2018.12.18-10.16.35:135][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Taunt/A_SW_Taunt_02.A_SW_Taunt_02) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:140][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Combat/A_SW_Combat_Out.A_SW_Combat_Out
+[2018.12.18-10.16.35:140][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Combat/A_SW_Combat_Out.A_SW_Combat_Out) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:144][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_PlayerStart.A_SW_PlayerStart
+[2018.12.18-10.16.35:145][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_PlayerStart.A_SW_PlayerStart) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:155][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_Enemy_Right_02.A_SW_Enemy_Right_02
+[2018.12.18-10.16.35:155][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_Enemy_Right_02.A_SW_Enemy_Right_02) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:157][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_Enemy_Right_01.A_SW_Enemy_Right_01
+[2018.12.18-10.16.35:157][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_Enemy_Right_01.A_SW_Enemy_Right_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:164][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_Enemy_Left_02.A_SW_Enemy_Left_02
+[2018.12.18-10.16.35:164][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_Enemy_Left_02.A_SW_Enemy_Left_02) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:168][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_BackwardLeft.A_SW_Avoid_BackwardLeft
+[2018.12.18-10.16.35:168][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_BackwardLeft.A_SW_Avoid_BackwardLeft) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:169][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_Backward.A_SW_Avoid_Backward
+[2018.12.18-10.16.35:169][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_Backward.A_SW_Avoid_Backward) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:182][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Combo.A_SW_Combo
+[2018.12.18-10.16.35:182][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Combo.A_SW_Combo) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:189][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/A_SW_DeadPose.A_SW_DeadPose
+[2018.12.18-10.16.35:189][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/A_SW_DeadPose.A_SW_DeadPose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:190][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/A_SW_Berserk.A_SW_Berserk
+[2018.12.18-10.16.35:190][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/A_SW_Berserk.A_SW_Berserk) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.18-10.16.35:758][  0]LogTexture: Display: Building textures: T_EnemyHealthBar_Base_Ico (AutoDXT, 1024X1024)
+[2018.12.18-10.16.35:758][  0]LogTexture: Display: Building textures: T_EnemyHealthBar_Balls_Ico (AutoDXT, 1024X1024)
+[2018.12.18-10.16.36:350][  0]LogTexture: Display: Building textures: T_EnemyHealthBar_Ring02_Ico (AutoDXT, 1024X1024)
+[2018.12.18-10.16.36:350][  0]LogTexture: Display: Building textures: T_EnemyHealthBar_Ring01_Ico (AutoDXT, 1024X1024)
+[2018.12.18-10.16.36:350][  0]LogTexture: Display: Building textures: T_EnemyHealthBar_Oreol_Ico (AutoDXT, 1024X1024)
+[2018.12.18-10.16.36:350][  0]LogTexture: Display: Building textures: T_EnemyHealthBar_Mask_Ico (AutoDXT, 1024X1024)
+[2018.12.18-10.16.36:954][  0]LogTexture: Display: Building textures: T_EnemyHealthBar_Line_Ico (AutoDXT, 1024X1024)
+[2018.12.18-10.16.36:954][  0]LogTexture: Display: Building textures: T_Camera_Ico (AutoDXT, 512X256)
+[2018.12.18-10.16.36:954][  0]LogTexture: Display: Building textures: T_XPbar_Mask_Ico (AutoDXT, 1024X128)
+[2018.12.18-10.16.36:954][  0]LogTexture: Display: Building textures: T_XpAnim_D (AutoDXT, 512X128)
+[2018.12.18-10.16.37:052][  0]LogStaticMesh: Building static mesh SM_Light...
+[2018.12.18-10.16.37:415][  0]LogTexture: Display: Building textures: T_RedAbstract_Ico (AutoDXT, 1024X256)
+[2018.12.18-10.16.37:415][  0]LogTexture: Display: Building textures: T_HealthbarFull_Ico (AutoDXT, 1024X128)
+[2018.12.18-10.16.37:415][  0]LogTexture: Display: Building textures: T_XPbarGlow_Ico (AutoDXT, 1024X128)
+[2018.12.18-10.16.37:415][  0]LogTexture: Display: Building textures: T_XPbar_Ico (AutoDXT, 1024X128)
+[2018.12.18-10.16.37:415][  0]LogStaticMesh: Built static mesh [0.36s] /Game/CloseCombat/Maps/Meshes/SM_Light.SM_Light
+[2018.12.18-10.16.37:500][  0]LogStaticMesh: Building static mesh SM_Primitive_Cart...
+[2018.12.18-10.16.37:675][  0]LogTexture: Display: Building textures: T_SkullEyes_Ico (AutoDXT, 512X512)
+[2018.12.18-10.16.37:675][  0]LogTexture: Display: Building textures: T_Skull_Ico (AutoDXT, 512X512)
+[2018.12.18-10.16.37:675][  0]LogTexture: Display: Building textures: T_SkillBar_Main_Ico (AutoDXT, 2048X256)
+[2018.12.18-10.16.37:675][  0]LogStaticMesh: Built static mesh [0.17s] /Game/CloseCombat/Maps/Meshes/SM_Primitive_Cart.SM_Primitive_Cart
+[2018.12.18-10.16.37:693][  0]LogStaticMesh: Building static mesh SM_Primitive_WoodBox...
+[2018.12.18-10.16.37:877][  0]LogStaticMesh: Built static mesh [0.18s] /Game/CloseCombat/Maps/Meshes/SM_Primitive_WoodBox.SM_Primitive_WoodBox
+[2018.12.18-10.16.37:885][  0]LogStaticMesh: Building static mesh SM_Primitive_Woodbridge...
+[2018.12.18-10.16.38:053][  0]LogTexture: Display: Building textures: T_SkillBar_Elem_Ico (AutoDXT, 2048X256)
+[2018.12.18-10.16.38:053][  0]LogStaticMesh: Built static mesh [0.17s] /Game/CloseCombat/Maps/Meshes/SM_Primitive_Woodbridge.SM_Primitive_Woodbridge
+[2018.12.18-10.16.38:090][  0]LogStaticMesh: Building static mesh SM_Throne...
+[2018.12.18-10.16.38:166][  0]LogStaticMesh: Built static mesh [0.08s] /Game/CloseCombat/Maps/Meshes/SM_Throne.SM_Throne
+[2018.12.18-10.16.38:389][  0]LogTexture: Display: Building textures: T_HealthbarGlass_Ico (AutoDXT, 1024X128)
+[2018.12.18-10.16.38:389][  0]LogTexture: Display: Building textures: T_Healthbar_Ico (AutoDXT, 1024X128)
+[2018.12.18-10.16.38:389][  0]LogTexture: Display: Building textures: T_BlockVertical_Ico (AutoDXT, 1024X64)
+[2018.12.18-10.16.38:389][  0]LogMaterial: Display: Missing cached shader map for material M_2D_EnemyHealth, compiling. 
+[2018.12.18-10.16.38:404][  0]LogMaterial: Display: Missing cached shader map for material M_2D_HealthAnim, compiling. 
+[2018.12.18-10.16.38:421][  0]LogTexture: Display: Building textures: T_BlockHorizont_Ico (AutoDXT, 128X128)
+[2018.12.18-10.16.38:421][  0]LogMaterial: Display: Missing cached shader map for material M_2D_XPbar_Anim, compiling. 
+[2018.12.18-10.16.39:095][  0]LogTexture: Display: Building textures: T_HelpScreenSkill_Ico (AutoDXT, 1024X512)
+[2018.12.18-10.16.39:095][  0]LogTexture: Display: Building textures: T_HelpScreen_Ico (AutoDXT, 1024X512)
+[2018.12.18-10.16.39:095][  0]LogTexture: Display: Building textures: T_Throne_D (AutoDXT, 512X512)
+[2018.12.18-10.16.39:095][  0]LogMaterial: Display: Missing cached shader map for material Building_BossChair_02_Mat, compiling. 
+[2018.12.18-10.16.39:390][  0]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2018.12.18-10.16.39:473][  0]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2018.12.18-10.16.39:852][  0]LogShaderCompilers: Display: Shaders left to compile 1090
+[2018.12.18-10.16.39:852][  0]LogAIModule: Creating AISystem for world DemoMap_WarriorSword
+[2018.12.18-10.16.43:493][  0]LogShaderCompilers: Display: Shaders left to compile 1080
+[2018.12.18-10.16.43:493][  0]LogShaderCompilers: Display: Shaders left to compile 1070
+[2018.12.18-10.16.43:493][  0]LogShaderCompilers: Display: Shaders left to compile 1060
+[2018.12.18-10.16.43:493][  0]LogShaderCompilers: Display: Shaders left to compile 1050
+[2018.12.18-10.16.43:890][  0]LogEditorServer: Finished looking for orphan Actors (0.021 secs)
+[2018.12.18-10.16.44:635][  0]LogShaderCompilers: Display: Shaders left to compile 1040
+[2018.12.18-10.16.44:635][  0]LogShaderCompilers: Display: Shaders left to compile 1030
+[2018.12.18-10.16.45:122][  0]LogShaderCompilers: Display: Shaders left to compile 1020
+[2018.12.18-10.16.45:122][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.18-10.16.45:162][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 29,599ms to complete.
+[2018.12.18-10.16.45:177][  0]LogFileHelpers: Loading map 'DemoMap_WarriorSword' took 73.009
+[2018.12.18-10.16.47:637][  0]LogShaderCompilers: Display: Shaders left to compile 1010
+[2018.12.18-10.16.47:637][  0]LogShaderCompilers: Display: Shaders left to compile 1000
+[2018.12.18-10.16.47:751][  0]LogShaderCompilers: Display: Shaders left to compile 990
+[2018.12.18-10.16.50:978][  0]LogShaderCompilers: Display: Shaders left to compile 980
+[2018.12.18-10.16.50:978][  0]LogShaderCompilers: Display: Shaders left to compile 970
+[2018.12.18-10.16.50:978][  0]LogShaderCompilers: Display: Shaders left to compile 960
+[2018.12.18-10.16.50:978][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-10.16.51:019][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-10.16.51:030][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-10.16.51:042][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-10.16.51:457][  0]LogCollectionManager: Loaded 0 collections in 0.001667 seconds
+[2018.12.18-10.16.51:767][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Saved/Collections/' took 0.01s
+[2018.12.18-10.16.51:767][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Content/Developers/AdminPC/Collections/' took 0.01s
+[2018.12.18-10.16.51:767][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin-PC/Desktop/CloseCombatSwordsman/Content/Collections/' took 0.01s
+[2018.12.18-10.16.51:768][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.18-10.16.51:799][  0]LogContentBrowser: Native class hierarchy populated in 0.0154 seconds. Added 2651 classes and 620 folders.
+[2018.12.18-10.16.52:057][  0]LogShaderCompilers: Display: Shaders left to compile 950
+[2018.12.18-10.16.52:057][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.18-10.16.52:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:246][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:248][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:250][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:253][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:254][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:256][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:258][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:333][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:337][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:388][  0]LogShaderCompilers: Display: Shaders left to compile 940
+[2018.12.18-10.16.52:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:415][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:417][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.52:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.18-10.16.53:204][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.18-10.16.53:299][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.18-10.16.54:707][  0]LogShaderCompilers: Display: Shaders left to compile 930
+[2018.12.18-10.16.54:707][  0]LogShaderCompilers: Display: Shaders left to compile 920
+[2018.12.18-10.16.54:707][  0]LogShaderCompilers: Display: Shaders left to compile 910
+[2018.12.18-10.16.54:707][  0]LogSlate: Took 0.028676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.18-10.16.54:785][  0]LogSlate: Took 0.051708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.18-10.16.54:932][  0]LogSlate: Took 0.032602 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.18-10.16.55:993][  0]LogShaderCompilers: Display: Shaders left to compile 900
+[2018.12.18-10.16.55:993][  0]LogRenderer: Reallocating scene render targets to support 648x540 Format 10 NumSamples 1 (Frame:1).
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 890
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 880
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 870
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 860
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 850
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 840
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 830
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 820
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 810
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 800
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 790
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 780
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 770
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 760
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 750
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 740
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 730
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 720
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 710
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 700
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 690
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 680
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 670
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 660
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 650
+[2018.12.18-10.17.18:025][  0]LogShaderCompilers: Display: Shaders left to compile 640
+[2018.12.18-10.17.18:472][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.18-10.17.18:472][  0]LogLoad: (Engine Initialization) Total time: 292.74 seconds
+[2018.12.18-10.17.18:472][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.18-10.17.20:352][  0]LogShaderCompilers: Display: Shaders left to compile 630
+[2018.12.18-10.17.20:352][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.18-10.17.21:154][  1]LogShaderCompilers: Display: Shaders left to compile 620
+[2018.12.18-10.17.21:465][  1]LogSlate: Took 0.017841 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.18-10.17.21:768][  3]LogShaderCompilers: Display: Shaders left to compile 610
+[2018.12.18-10.17.22:663][  6]LogShaderCompilers: Display: Shaders left to compile 600
+[2018.12.18-10.17.24:641][ 16]LogAssetRegistry: Asset discovery search completed in 246.9240 seconds
+[2018.12.18-10.17.24:658][ 16]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.18-10.17.24:658][ 16]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000077 seconds (updated 0 objects)
+[2018.12.18-10.17.25:248][ 24]LogShaderCompilers: Display: Shaders left to compile 590
+[2018.12.18-10.17.25:615][ 35]LogShaderCompilers: Display: Shaders left to compile 580
+[2018.12.18-10.17.25:928][ 41]LogShaderCompilers: Display: Shaders left to compile 570
+[2018.12.18-10.17.29:187][133]LogShaderCompilers: Display: Shaders left to compile 560
+[2018.12.18-10.17.29:337][140]LogShaderCompilers: Display: Shaders left to compile 550
+[2018.12.18-10.17.29:513][146]LogShaderCompilers: Display: Shaders left to compile 540
+[2018.12.18-10.17.32:073][213]LogShaderCompilers: Display: Shaders left to compile 530
+[2018.12.18-10.17.32:931][238]LogShaderCompilers: Display: Shaders left to compile 520
+[2018.12.18-10.17.34:676][390]LogShaderCompilers: Display: Shaders left to compile 510
+[2018.12.18-10.17.37:568][603]LogShaderCompilers: Display: Shaders left to compile 500
+[2018.12.18-10.17.38:939][651]LogShaderCompilers: Display: Shaders left to compile 490
+[2018.12.18-10.17.39:582][671]LogShaderCompilers: Display: Shaders left to compile 480
+[2018.12.18-10.17.42:468][782]LogShaderCompilers: Display: Shaders left to compile 470
+[2018.12.18-10.17.43:118][821]LogShaderCompilers: Display: Shaders left to compile 460
+[2018.12.18-10.17.48:995][112]LogShaderCompilers: Display: Shaders left to compile 450
+[2018.12.18-10.17.50:310][162]LogShaderCompilers: Display: Shaders left to compile 440
+[2018.12.18-10.17.53:541][407]LogShaderCompilers: Display: Shaders left to compile 430
+[2018.12.18-10.17.54:730][437]LogShaderCompilers: Display: Shaders left to compile 420
+[2018.12.18-10.17.56:484][517]LogShaderCompilers: Display: Shaders left to compile 410
+[2018.12.18-10.18.01:295][722]LogShaderCompilers: Display: Shaders left to compile 400
+[2018.12.18-10.18.01:791][741]LogShaderCompilers: Display: Shaders left to compile 390
+[2018.12.18-10.18.03:412][827]LogShaderCompilers: Display: Shaders left to compile 380
+[2018.12.18-10.18.07:000][ 16]LogShaderCompilers: Display: Shaders left to compile 370
+[2018.12.18-10.18.11:582][273]LogShaderCompilers: Display: Shaders left to compile 360
+[2018.12.18-10.18.12:758][325]LogShaderCompilers: Display: Shaders left to compile 350
+[2018.12.18-10.18.17:201][553]LogShaderCompilers: Display: Shaders left to compile 340
+[2018.12.18-10.18.20:295][693]LogShaderCompilers: Display: Shaders left to compile 330
+[2018.12.18-10.18.21:925][737]LogShaderCompilers: Display: Shaders left to compile 320
+[2018.12.18-10.18.23:417][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.18-10.18.23:470][793]MapCheck: New page: Map Check
+[2018.12.18-10.18.23:587][793]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.18-10.18.23:601][793]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 310
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 300
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 290
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 280
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 270
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 260
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 250
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 240
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 230
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 220
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 210
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 200
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 190
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 180
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 170
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 160
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 150
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.18-10.19.29:954][793]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.18-10.19.29:954][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.12.18-10.19.29:967][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Floor_01, compiling. 
+[2018.12.18-10.19.29:993][793]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.18-10.19.29:993][793]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.18-10.19.29:993][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Sword_Light, compiling. 
+[2018.12.18-10.19.30:006][793]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.18-10.19.30:006][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV_blackbody, compiling. 
+[2018.12.18-10.19.30:019][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Color, compiling. 
+[2018.12.18-10.19.30:037][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Pine, compiling. 
+[2018.12.18-10.19.30:050][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Lake_Inst, compiling. 
+[2018.12.18-10.19.30:063][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_Beveled, compiling. 
+[2018.12.18-10.19.30:080][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.12.18-10.19.30:096][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Building_BossChair_02_Mat, compiling. 
+[2018.12.18-10.19.30:111][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_SwordOfDarkness, compiling. 
+[2018.12.18-10.19.30:127][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body_Enemy, compiling. 
+[2018.12.18-10.19.30:146][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.12.18-10.19.30:164][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_SwordHandle, compiling. 
+[2018.12.18-10.19.30:180][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Sword_Blade, compiling. 
+[2018.12.18-10.19.30:199][793]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.12.18-10.19.32:462][793]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.18-10.19.32:462][793]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.18-10.19.32:462][793]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.18-10.19.32:462][793]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.18-10.19.32:462][793]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.18-10.19.32:462][793]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.18-10.19.32:462][793]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.18-10.19.32:462][793]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.18-10.19.32:462][793]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.18-10.19.32:462][793]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.18-10.19.32:462][793]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.18-10.19.32:462][793]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.18-10.19.32:462][793]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.18-10.19.32:462][793]TextureStreamingBuild: Display: Compiling optional shaders took 2.529 seconds.
+[2018.12.18-10.19.32:697][793]LogLevel: Display: Export Material TexCoord Scales took 0.234 seconds.
+[2018.12.18-10.19.33:192][793]TextureStreamingBuild: Display: Build Texture Streaming took 0.495 seconds.
+[2018.12.18-10.19.33:332][793]LightingResults: New page: Lighting Build - 18 дек. 2018 г., 16:19:33
+[2018.12.18-10.19.33:771][793]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.18-10.19.34:101][793]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.18-10.19.34:665][793]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.18-10.19.37:303][793]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.12.18-10.19.37:395][793]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:8008
+
+Server stack trace: 
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   в System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   в System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   в System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   в System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   в System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   в System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   в System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   в NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   в NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) в D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:строка 2811
+[2018.12.18-10.19.44:325][793]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.18-10.19.44:326][793]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3528
+[2018.12.18-10.19.47:942][793]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.12.18-10.19.47:951][793]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.18-10.19.47:951][793]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.18-10.19.47:951][793]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.18-10.19.47:951][793]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.18-10.19.47:951][793]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.18-10.19.49:434][793]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.18-10.19.49:434][793]MapCheck: New page: DemoMap_WarriorSword - 18 дек. 2018 г., 16:19:49
+[2018.12.18-10.19.49:516][793]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81,952ms to complete.
+[2018.12.18-10.19.49:546][793]LogEditorBuildUtils: Build time 1:25
+[2018.12.18-10.19.49:645][793]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.12.18-10.19.49:654][793]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.18-10.19.49:654][793]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.12.18-10.19.49:694][793]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.18-10.19.49:799][794]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Floor_01, compiling. 
+[2018.12.18-10.19.49:825][794]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.18-10.19.49:825][794]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Floor_01, compiling. 
+[2018.12.18-10.19.50:544][794]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.18-10.19.50:910][796]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Sword_Light, compiling. 
+[2018.12.18-10.19.50:925][796]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.18-10.19.50:926][796]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Sword_Light, compiling. 
+[2018.12.18-10.19.50:940][796]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.18-10.19.50:941][796]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Sword_Light, compiling. 
+[2018.12.18-10.19.51:066][799]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Color, compiling. 
+[2018.12.18-10.19.51:079][799]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Color, compiling. 
+[2018.12.18-10.19.51:101][800]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Pine, compiling. 
+[2018.12.18-10.19.51:117][800]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Pine, compiling. 
+[2018.12.18-10.19.51:173][802]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Water_Lake_Inst, compiling. 
+[2018.12.18-10.19.51:189][802]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Water_Lake_Inst, compiling. 
+[2018.12.18-10.19.51:279][805]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Beveled, compiling. 
+[2018.12.18-10.19.51:295][805]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Beveled, compiling. 
+[2018.12.18-10.19.51:409][809]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Building_BossChair_02_Mat, compiling. 
+[2018.12.18-10.19.51:436][809]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Building_BossChair_02_Mat, compiling. 
+[2018.12.18-10.19.51:461][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_SwordOfDarkness, compiling. 
+[2018.12.18-10.19.51:481][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_SwordOfDarkness, compiling. 
+[2018.12.18-10.19.51:496][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_SwordOfDarkness, compiling. 
+[2018.12.18-10.19.51:518][811]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.12.18-10.19.51:532][811]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.12.18-10.19.56:368][813]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.18-10.19.56:368][813]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.18-10.19.56:368][813]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.18-10.19.56:368][813]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.18-10.20.03:885][841]Job has failed! Job is closed while Tasks are still PENDING
+[2018.12.18-10.20.03:887][841]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build failed. Swarm failed to kick off.  Compile Unreal Lightmass.
+[2018.12.18-10.20.03:926][841]DumpUnbuiltLightIteractions
+[2018.12.18-10.20.03:926][841]Lights with unbuilt interactions: 0
+[2018.12.18-10.20.03:926][841]
+[2018.12.18-10.20.03:926][841]Primitives with unbuilt interactions: 0
+[2018.12.18-10.20.03:981][841]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.18-10.20.04:054][842]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.18-10.20.04:054][842]MapCheck: New page: DemoMap_WarriorSword - 18 дек. 2018 г., 16:20:04
+[2018.12.18-10.20.04:061][842]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7,469ms to complete.
+[2018.12.18-10.20.18:586][955]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (28.872 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.12.18-10.20.29:490][561]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.18-10.20.31:568][799]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.18-10.20.31:591][799]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword:PersistentLevel' has LevelScriptBlueprint '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword:PersistentLevel.DemoMap_WarriorSword' with GeneratedClass '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword_C' with ClassGeneratedBy '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword:PersistentLevel.DemoMap_WarriorSword'
+[2018.12.18-10.20.31:647][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.18-10.20.31:647][799]PIE: New page: PIE session: DemoMap_WarriorSword (18 дек. 2018 г., 16:20:31)
+[2018.12.18-10.20.31:819][799]LogPlayLevel: Creating play world package: /Game/CloseCombat/Maps/UEDPIE_0_DemoMap_WarriorSword
+[2018.12.18-10.20.31:964][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144606s)
+[2018.12.18-10.20.31:984][799]LogAIModule: Creating AISystem for world DemoMap_WarriorSword
+[2018.12.18-10.20.31:985][799]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2018.12.18-10.20.31:985][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword to /Game/CloseCombat/Maps/UEDPIE_0_DemoMap_WarriorSword.DemoMap_WarriorSword (0.165994s)
+[2018.12.18-10.20.32:088][799]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.18-10.20.32:097][799]LogInit: FAudioDevice initialized.
+[2018.12.18-10.20.32:114][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.18-10.20.32:186][799]LogLoad: Game class is 'CloseCombat_SwordsmanGamemode_C'
+[2018.12.18-10.20.32:234][799]LogWorld: Bringing World /Game/CloseCombat/Maps/UEDPIE_0_DemoMap_WarriorSword.DemoMap_WarriorSword up for play (max tick rate 0) at 2018.12.18-13.20.32
+[2018.12.18-10.20.32:398][799]LogWorld: Bringing up level for play took: 0.196994
+[2018.12.18-10.20.32:691][799]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2018.12.18-10.20.33:197][799]PIE: Play in editor start time for /Game/CloseCombat/Maps/UEDPIE_0_DemoMap_WarriorSword 2,547
+[2018.12.18-10.20.33:198][799]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword:PersistentLevel' has LevelScriptBlueprint '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword:PersistentLevel.DemoMap_WarriorSword' with GeneratedClass '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword_C' with ClassGeneratedBy '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword:PersistentLevel.DemoMap_WarriorSword'
+[2018.12.18-10.20.47:830][680]LogScript: Warning: Script Msg: Divide by zero detected: 7.528748 / 0
+Script call stack:
+	Function /Game/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.18-10.20.47:830][680]LogScript: Warning: Script Msg: Divide by zero detected: 7.528748 / 0
+Script call stack:
+	Function /Game/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.18-10.21.12:151][ 76]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword:PersistentLevel' has LevelScriptBlueprint '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword:PersistentLevel.DemoMap_WarriorSword' with GeneratedClass '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword_C' with ClassGeneratedBy '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword:PersistentLevel.DemoMap_WarriorSword'
+[2018.12.18-10.21.12:167][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-10.21.12:237][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.18-10.21.12:237][ 76]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword:PersistentLevel' has LevelScriptBlueprint '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword:PersistentLevel.DemoMap_WarriorSword' with GeneratedClass '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword_C' with ClassGeneratedBy '/Game/CloseCombat/Maps/DemoMap_WarriorSword.DemoMap_WarriorSword:PersistentLevel.DemoMap_WarriorSword'
+[2018.12.18-10.21.12:356][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.18-10.21.12:411][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.12.18-10.21.32:490][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.18-10.21.34:902][436]LogSlate: Window 'Save Content' being destroyed
+[2018.12.18-10.21.35:033][436]LogSlate: Window 'CloseCombatSwordsman - Unreal Editor' being destroyed
+[2018.12.18-10.21.35:514][437]Cmd: QUIT_EDITOR
+[2018.12.18-10.21.35:896][437]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.18-10.21.36:031][437]LogExit: Preparing to exit.
+[2018.12.18-10.21.37:446][437]LogExit: Editor shut down
+[2018.12.18-10.21.37:447][437]LogExit: Transaction tracking system shut down
+[2018.12.18-10.21.39:648][437]LogExit: Object subsystem successfully closed.
+[2018.12.18-10.21.39:775][437]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.18-10.21.39:790][437]LogD3D11RHI: Shutdown
+[2018.12.18-10.21.39:790][437]LogD3D11RHI: CleanupD3DDevice
+[2018.12.18-10.21.39:911][437]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.18-10.21.41:306][437]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2018.12.18-10.21.41:306][437]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2018.12.18-10.21.41:323][437]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (626)
+[2018.12.18-10.21.41:323][437]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2018.12.18-10.21.41:323][437]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2018.12.18-10.21.41:323][437]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2018.12.18-10.21.41:328][437]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2018.12.18-10.21.41:328][437]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2018.12.18-10.21.41:328][437]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2018.12.18-10.21.41:341][437]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2018.12.18-10.21.41:341][437]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.12.18-10.21.41:351][437]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2018.12.18-10.21.41:369][437]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2018.12.18-10.21.41:433][437]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2018.12.18-10.21.41:448][437]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2018.12.18-10.21.41:448][437]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2018.12.18-10.21.41:448][437]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2018.12.18-10.21.41:448][437]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2018.12.18-10.21.41:448][437]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2018.12.18-10.21.41:448][437]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2018.12.18-10.21.41:448][437]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2018.12.18-10.21.41:448][437]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2018.12.18-10.21.41:448][437]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2018.12.18-10.21.41:448][437]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2018.12.18-10.21.41:464][437]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2018.12.18-10.21.41:501][437]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2018.12.18-10.21.41:501][437]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2018.12.18-10.21.41:586][437]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2018.12.18-10.21.41:587][437]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2018.12.18-10.21.41:587][437]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2018.12.18-10.21.41:587][437]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2018.12.18-10.21.41:587][437]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2018.12.18-10.21.41:608][437]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2018.12.18-10.21.41:625][437]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2018.12.18-10.21.41:652][437]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2018.12.18-10.21.41:653][437]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2018.12.18-10.21.41:695][437]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2018.12.18-10.21.41:715][437]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2018.12.18-10.21.41:778][437]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2018.12.18-10.21.41:826][437]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2018.12.18-10.21.41:833][437]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2018.12.18-10.21.41:834][437]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2018.12.18-10.21.41:834][437]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2018.12.18-10.21.41:834][437]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2018.12.18-10.21.41:834][437]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2018.12.18-10.21.42:308][437]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2018.12.18-10.21.42:308][437]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2018.12.18-10.21.42:308][437]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2018.12.18-10.21.42:308][437]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2018.12.18-10.21.42:308][437]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2018.12.18-10.21.42:308][437]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.12.18-10.21.42:341][437]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.12.18-10.21.42:362][437]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.12.18-10.21.42:394][437]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.12.18-10.21.42:408][437]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.12.18-10.21.42:408][437]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.12.18-10.21.42:430][437]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.12.18-10.21.42:436][437]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.12.18-10.21.42:436][437]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.12.18-10.21.42:436][437]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.12.18-10.21.42:436][437]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.12.18-10.21.42:436][437]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.12.18-10.21.42:436][437]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.12.18-10.21.42:436][437]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.12.18-10.21.42:469][437]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.12.18-10.21.42:482][437]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.12.18-10.21.42:502][437]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.12.18-10.21.42:522][437]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.12.18-10.21.42:577][437]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.12.18-10.21.42:602][437]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.12.18-10.21.42:617][437]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.12.18-10.21.42:651][437]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.12.18-10.21.42:651][437]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.12.18-10.21.42:674][437]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.12.18-10.21.42:675][437]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.12.18-10.21.42:719][437]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.12.18-10.21.42:719][437]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.12.18-10.21.42:719][437]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.12.18-10.21.42:788][437]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.12.18-10.21.42:842][437]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.12.18-10.21.42:842][437]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.12.18-10.21.42:842][437]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.12.18-10.21.42:854][437]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.12.18-10.21.42:855][437]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.12.18-10.21.42:855][437]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.12.18-10.21.42:869][437]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.12.18-10.21.42:870][437]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.12.18-10.21.42:871][437]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.12.18-10.21.42:871][437]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.12.18-10.21.42:872][437]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.12.18-10.21.42:872][437]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.12.18-10.21.42:872][437]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.12.18-10.21.42:872][437]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.12.18-10.21.42:872][437]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.12.18-10.21.42:872][437]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.12.18-10.21.42:872][437]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.12.18-10.21.42:872][437]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.12.18-10.21.42:873][437]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.12.18-10.21.42:873][437]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.12.18-10.21.42:873][437]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2018.12.18-10.21.42:881][437]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.18-10.21.42:953][437]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.18-10.21.42:986][437]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.18-10.21.42:986][437]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.18-10.21.42:986][437]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.18-10.21.42:986][437]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.18-10.21.42:986][437]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.18-10.21.42:986][437]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.18-10.21.42:996][437]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.18-10.21.42:996][437]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.18-10.21.42:996][437]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.18-10.21.42:997][437]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.18-10.21.42:997][437]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.18-10.21.42:997][437]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.18-10.21.43:006][437]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.18-10.21.43:019][437]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.12.18-10.21.43:019][437]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.12.18-10.21.43:019][437]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.12.18-10.21.43:037][437]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.12.18-10.21.43:037][437]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.12.18-10.21.43:037][437]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.12.18-10.21.43:037][437]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.12.18-10.21.43:045][437]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.12.18-10.21.43:045][437]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2018.12.18-10.21.43:045][437]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.18-10.21.43:046][437]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.18-10.21.43:046][437]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.18-10.21.43:046][437]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.18-10.21.43:046][437]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.18-10.21.43:046][437]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2018.12.18-10.21.43:046][437]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2018.12.18-10.21.43:046][437]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.18-10.21.43:046][437]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.18-10.21.43:101][437]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.18-10.21.43:124][437]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.18-10.21.43:124][437]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.18-10.21.43:147][437]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.18-10.21.43:153][437]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.18-10.21.43:153][437]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.18-10.21.43:153][437]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.18-10.21.43:153][437]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.18-10.21.43:153][437]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.18-10.21.43:158][437]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.18-10.21.43:222][437]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.18-10.21.43:256][437]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.18-10.21.43:256][437]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.18-10.21.43:256][437]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2018.12.18-10.21.43:256][437]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2018.12.18-10.21.43:256][437]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2018.12.18-10.21.43:256][437]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2018.12.18-10.21.43:256][437]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2018.12.18-10.21.43:256][437]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2018.12.18-10.21.43:304][437]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2018.12.18-10.21.43:322][437]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.12.18-10.21.43:322][437]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.12.18-10.21.43:322][437]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.12.18-10.21.43:322][437]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.12.18-10.21.43:337][437]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.12.18-10.21.43:337][437]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.18-10.21.43:337][437]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.18-10.21.43:438][437]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.18-10.21.43:560][437]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.18-10.21.43:560][437]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.18-10.21.43:581][437]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.18-10.21.43:581][437]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.18-10.21.43:581][437]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.18-10.21.43:581][437]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.18-10.21.43:599][437]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.18-10.21.43:601][437]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.18-10.21.43:618][437]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.18-10.21.43:618][437]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.18-10.21.43:619][437]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.18-10.21.43:620][437]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.18-10.21.43:622][437]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.18-10.21.43:632][437]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.18-10.21.43:632][437]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.18-10.21.43:632][437]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.18-10.21.43:646][437]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.18-10.21.43:659][437]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2018.12.18-10.21.43:659][437]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2018.12.18-10.21.43:682][437]LogModuleManager: Shutting down and abandoning module Media (241)
+[2018.12.18-10.21.43:689][437]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.12.18-10.21.43:689][437]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.12.18-10.21.43:689][437]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.12.18-10.21.43:689][437]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.12.18-10.21.43:689][437]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.12.18-10.21.43:689][437]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.12.18-10.21.43:689][437]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.12.18-10.21.43:704][437]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.12.18-10.21.43:720][437]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.12.18-10.21.43:720][437]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.12.18-10.21.43:768][437]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.12.18-10.21.43:785][437]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.12.18-10.21.43:810][437]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.12.18-10.21.43:810][437]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.12.18-10.21.43:810][437]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.12.18-10.21.43:821][437]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.12.18-10.21.43:918][437]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.12.18-10.21.43:932][437]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.12.18-10.21.43:974][437]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.12.18-10.21.43:974][437]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.12.18-10.21.43:979][437]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.12.18-10.21.43:979][437]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.12.18-10.21.43:980][437]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.12.18-10.21.43:980][437]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.12.18-10.21.43:980][437]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.12.18-10.21.43:980][437]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.12.18-10.21.43:980][437]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.12.18-10.21.43:980][437]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.12.18-10.21.43:980][437]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.12.18-10.21.43:988][437]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.12.18-10.21.44:009][437]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.12.18-10.21.44:009][437]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.12.18-10.21.44:024][437]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.12.18-10.21.44:058][437]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.12.18-10.21.44:058][437]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.12.18-10.21.44:058][437]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.12.18-10.21.44:058][437]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.12.18-10.21.44:058][437]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.12.18-10.21.44:077][437]LogDerivedDataCache: Shutdown
+[2018.12.18-10.21.44:077][437]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.12.18-10.21.44:077][437]LogXGEController: Cleaning working directory: C:/Users/Admin-PC/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.18-10.21.44:078][437]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.12.18-10.21.44:078][437]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.12.18-10.21.44:093][437]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.12.18-10.21.44:093][437]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.12.18-10.21.44:103][437]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.12.18-10.21.44:103][437]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.12.18-10.21.44:129][437]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.12.18-10.21.44:129][437]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.12.18-10.21.44:129][437]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.12.18-10.21.44:129][437]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.12.18-10.21.44:129][437]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.12.18-10.21.44:129][437]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.12.18-10.21.44:129][437]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.12.18-10.21.44:129][437]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.12.18-10.21.44:129][437]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.12.18-10.21.44:129][437]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.12.18-10.21.44:130][437]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.12.18-10.21.44:132][437]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.12.18-10.21.44:132][437]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.12.18-10.21.44:132][437]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.12.18-10.21.44:132][437]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.12.18-10.21.44:132][437]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.12.18-10.21.44:145][437]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.12.18-10.21.44:145][437]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.12.18-10.21.44:147][437]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.12.18-10.21.44:147][437]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.12.18-10.21.44:165][437]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.12.18-10.21.44:165][437]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.12.18-10.21.44:165][437]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.12.18-10.21.44:165][437]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.12.18-10.21.44:165][437]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.12.18-10.21.44:165][437]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.12.18-10.21.44:165][437]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.12.18-10.21.44:165][437]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.12.18-10.21.44:165][437]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.12.18-10.21.44:165][437]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.12.18-10.21.44:165][437]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.12.18-10.21.44:165][437]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.12.18-10.21.44:165][437]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.12.18-10.21.44:190][437]LogHMD: Freeing OpenVRDLLHandle.
+[2018.12.18-10.21.44:191][437]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.12.18-10.21.44:191][437]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.12.18-10.21.44:191][437]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.12.18-10.21.44:192][437]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.12.18-10.21.44:192][437]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.12.18-10.21.44:193][437]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.12.18-10.21.44:295][437]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.12.18-10.21.44:413][437]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.12.18-10.21.44:414][437]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.18-10.21.44:414][437]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1DCC366D-490E-C6FB-B673-E0B9629098C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=012efd784bf399e6bc28fe952970adb7%7Cf3e3adcb153b48899ca1d5353cb102ee%7C78560c0d-bdaa-4283-b403-128f5fdad77e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.18-10.21.44:428][437]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.12.18-10.21.44:432][437]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.12.18-10.21.44:432][437]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.12.18-10.21.44:432][437]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.12.18-10.21.44:432][437]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.12.18-10.21.44:432][437]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.12.18-10.21.44:432][437]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.12.18-10.21.44:432][437]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.12.18-10.21.44:433][437]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.18-10.21.44:433][437]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.12.18-10.21.44:458][437]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.12.18-10.21.44:459][437]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.18-10.21.44:495][437]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.18-10.21.44:510][437]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.18-10.21.44:535][437]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.18-10.21.44:535][437]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.18-10.21.44:535][437]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.18-10.21.44:536][437]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.18-10.21.44:564][437]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.18-10.21.44:587][437]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.18-10.21.44:587][437]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.18-10.21.44:587][437]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.18-10.21.44:587][437]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.18-10.21.44:587][437]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.18-10.21.44:587][437]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.18-10.21.44:587][437]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.18-10.21.44:587][437]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.18-10.21.44:587][437]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.18-10.21.44:587][437]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.18-10.21.44:625][437]LogExit: Exiting.
+[2018.12.18-10.21.44:683][437]Log file closed, 12/18/18 13:21:44
